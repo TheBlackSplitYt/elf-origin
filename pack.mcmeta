@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "name": "origins"
+    "pack_format": 10,
+    "description": "adds all of the origins for the server in one pack."
+  }
+}
